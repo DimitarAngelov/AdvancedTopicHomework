@@ -1,0 +1,6 @@
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.pdb
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.pdb

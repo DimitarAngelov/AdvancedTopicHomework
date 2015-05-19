@@ -1,0 +1,6 @@
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\bin\Debug\task1.exe.config
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\bin\Debug\task1.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\bin\Debug\task1.pdb
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\obj\Debug\task1.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\task1\obj\Debug\task1.pdb

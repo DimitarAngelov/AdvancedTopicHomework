@@ -1,0 +1,2 @@
+c:\users\dani\Desktop\softuni\Projects\Exam\knight\bin\Debug\knight.exe.config
+C:\Users\Dimitur\Desktop\Exam\knight\bin\Debug\knight.exe.config

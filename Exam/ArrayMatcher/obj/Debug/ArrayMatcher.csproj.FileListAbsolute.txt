@@ -1,0 +1,11 @@
+c:\users\dani\Desktop\softuni\Projects\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+c:\users\dani\Desktop\softuni\Projects\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+c:\users\dani\Desktop\softuni\Projects\Exam\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\ArrayMatcher\obj\Debug\ArrayMatcher.pdb
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\obj\Debug\ArrayMatcher.pdb
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+C:\Users\Dimitur\Desktop\Exam\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache

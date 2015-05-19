@@ -1,0 +1,9 @@
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\bin\Debug\04.TextFiller.exe.config
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\obj\Debug\04.TextFiller.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\bin\Debug\04.TextFiller.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\bin\Debug\04.TextFiller.pdb
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\obj\Debug\04.TextFiller.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.TextFiller\obj\Debug\04.TextFiller.pdb
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.TextFiller\bin\Debug\04.TextFiller.exe.config
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.TextFiller\obj\Debug\04.TextFiller.exe
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.TextFiller\obj\Debug\04.TextFiller.pdb

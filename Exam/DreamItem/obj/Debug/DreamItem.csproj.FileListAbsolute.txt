@@ -1,0 +1,9 @@
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\bin\Debug\DreamItem.exe.config
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\bin\Debug\DreamItem.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\bin\Debug\DreamItem.pdb
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\obj\Debug\DreamItem.exe
+c:\users\dani\Desktop\softuni\Projects\Exam\DreamItem\obj\Debug\DreamItem.pdb
+C:\Users\Dimitur\Desktop\Exam\DreamItem\bin\Debug\DreamItem.exe.config
+C:\Users\Dimitur\Desktop\Exam\DreamItem\obj\Debug\DreamItem.exe
+C:\Users\Dimitur\Desktop\Exam\DreamItem\obj\Debug\DreamItem.pdb
