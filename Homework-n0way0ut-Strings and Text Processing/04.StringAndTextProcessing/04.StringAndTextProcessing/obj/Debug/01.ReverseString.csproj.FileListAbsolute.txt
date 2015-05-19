@@ -1,0 +1,9 @@
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe.config
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.pdb
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.exe
+c:\users\dani\Desktop\softuni\Projects\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.pdb
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.StringAndTextProcessing\bin\Debug\04.StringAndTextProcessing.exe.config
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.exe
+C:\Users\Dimitur\Desktop\Homework-n0way0ut-Strings and Text Processing\04.StringAndTextProcessing\04.StringAndTextProcessing\obj\Debug\04.StringAndTextProcessing.pdb
